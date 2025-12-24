@@ -59,23 +59,21 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wahb-amir&show_icons=true&theme=radical&hide_border=true"
-    width="48%"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wahb-amir&layout=compact&theme=radical&hide_border=true"
-    width="48%"
-    alt="Top languages"
-  />
+  <!-- Followers / Stars / Repos: Shields are fast & reliable -->
+  <img src="https://img.shields.io/github/followers/wahb-amir?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/wahb-amir?style=flat&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/repo-size/wahb-amir/wahb-amir?style=flat" alt="Repo size" />
+  <img src="https://img.shields.io/github/issues/wahb-amir/wahb-amir?style=flat" alt="Issues" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=wahb-amir&theme=radical&hide_border=true"
-    alt="GitHub streak"
-  />
+  <!-- Activity graph (widely used) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wahb-amir&bg_color=000000&color=8b949e&line=00e7ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <!-- Optional: streak (may occasionally be rate-limited) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahb-amir&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
 
