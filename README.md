@@ -58,7 +58,6 @@
 ---
 ### 📊 GitHub Stats
 <p align="center">
-  Followers / Stars / Repos: Shields are fast & reliable
   <img src="https://img.shields.io/github/followers/wahb-amir?style=social" alt="Followers" />
   <!-- <img src="https://img.shields.io/github/stars/wahb-amir?style=flat&logo=github" alt="Stars" /> -->
   <img src="https://img.shields.io/github/repo-size/wahb-amir/wahb-amir?style=flat" alt="Repo size" />
