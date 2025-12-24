@@ -94,7 +94,12 @@ You can choose one (or more) of these. Replace the placeholder email with your r
 <p align="center">
   <!-- Email (replace `contact@yourdomain.com` with your real email) -->
   <a href="mailto:contact@wahbamir2010@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact@wahbamir2010@gmail.com-0078D4?style=for-the-badge&logo=gmail" alt="Email" />
+      <img
+    src="https://wahb.space/_next/image?url=%2Flogo.png&w=96&q=75"
+    alt="Contact page"
+    width="32"
+    height="32"
+  />
   </a>
 
   <!-- Portfolio contact page -->
