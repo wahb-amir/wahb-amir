@@ -108,9 +108,7 @@ You can choose one (or more) of these. Replace the placeholder email with your r
   </a>
 </p>
 
-> Tip: if you want a contact form that sends email without showing your email publicly, use a form on your site (e.g. `https://wahb.space/contact`) or services like Formspree / Netlify Forms / Vercel Serverless function.
 
----
 
 ⭐ *If you like performance-focused web apps, you’ll like my work.*
 
