@@ -71,11 +71,7 @@
 </p>
 
 
-> **Notes about stats**  
-> - `github-readme-stats` images are dynamic and popular — they auto-update. The `count_private=true` parameter will show private contributions only if the service can access them; if you want fully private-safe stats, consider self-hosting the `github-readme-stats` backend.  
-> - The shields badges (followers, stars) are reliable fallbacks and quick to load.
 
----
 
 ### 📈 Activity Graph
 <div align="center">
