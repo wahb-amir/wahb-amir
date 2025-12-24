@@ -11,12 +11,12 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 Building **high-performance full-stack web apps**
+- 🔭 Building **high-performance full-stack web apps**  
 - 🌱 Deeply focused on **Next.js (SSR / SSG / App Router)** & animations  
-- ⚡ Obsessed with **performance, UX, and clean architecture**
-- 💬 Ask me about **React, Next.js, Tailwind, Framer Motion**
-- 🌐 Portfolio: **https://wahb.space**
-- 🚀 Live Project: **https://dashboard.wahb.space**
+- ⚡ Obsessed with **performance, UX, and clean architecture**  
+- 💬 Ask me about **React, Next.js, Tailwind, Framer Motion**  
+- 🌐 Portfolio: **https://wahb.space**  
+- 🚀 Live Project: **https://dashboard.wahb.space**  
 - ⚡ Motto: *“Performance and clarity over complexity.”*
 
 ---
@@ -35,79 +35,57 @@
 
 ### 🧠 Languages & Tools I Work With
 <p align="center">
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" style="filter: invert(1);" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /></a>
+  <a href="https://www.framer.com/motion/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="40" height="40" /></a>
 
-  <!-- Frontend -->
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" style="filter: invert(1);" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.framer.com/motion/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="40" height="40" />
-  </a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /></a>
 
-  <!-- Backend -->
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
-  </a>
+  <a href="https://docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="40" height="40" /></a>
+  <a href="https://nginx.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" /></a>
 
-  <!-- DevOps -->
-  <a href="https://docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
-  </a>
-  <a href="https://vercel.com/" target="_blank">
-    <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="40" height="40" />
-  </a>
-  <a href="https://nginx.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" />
-  </a>
-
-  <!-- Core -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />
-  </a>
-
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" /></a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahb-amir&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahb-amir&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <!-- Main dynamic stats (uses github-readme-stats) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=wahb-amir&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="Wahb's GitHub stats" width="48%"/>
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahb-amir&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahb-amir&theme=radical&hide_border=true"/>
+  <!-- Streaks (useful but public service reliability varies) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahb-amir&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
+
+<p align="center">
+  <!-- Quick-stats badges (followers, total stars, repos) via shields (fast & reliable) -->
+  <img src="https://img.shields.io/github/followers/wahb-amir?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/wahb-amir?style=flat&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/repos-wahb/wahb-amir?label=repos&style=flat" alt="Repos" />
+</p>
+
+> **Notes about stats**  
+> - `github-readme-stats` images are dynamic and popular — they auto-update. The `count_private=true` parameter will show private contributions only if the service can access them; if you want fully private-safe stats, consider self-hosting the `github-readme-stats` backend.  
+> - The shields badges (followers, stars) are reliable fallbacks and quick to load.
 
 ---
 
 ### 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wahb-amir&bg_color=000000&color=8b949e&line=00e7ff&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wahb-amir&bg_color=000000&color=8b949e&line=00e7ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
 </div>
 
 ---
@@ -115,9 +93,34 @@
 ### 🚀 Featured Work
 - **Client & Developer Dashboard** → https://dashboard.wahb.space  
 - **Portfolio** → https://wahb.space  
-- **Optimized SSR + SSG apps (95% Lighthouse)**  
-- **Heavy animation without performance loss**
+- Optimized SSR + SSG apps (95% Lighthouse improvements)  
+- Heavy animation without performance loss
+
+---
+
+### ✉️ Contact Me
+You can choose one (or more) of these. Replace the placeholder email with your real address if you want direct email links.
+
+<p align="center">
+  <!-- Email (replace `contact@yourdomain.com` with your real email) -->
+  <a href="mailto:contact@wahb.space">
+    <img src="https://img.shields.io/badge/Email-contact@wahb.space-0078D4?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+
+  <!-- Portfolio contact page -->
+  <a href="https://wahb.space/contact" target="_blank">
+    <img src="https://img.shields.io/badge/Contact%20Page-wahb.space/contact-00A86B?style=for-the-badge&logo=web" alt="Contact page" />
+  </a>
+
+  <!-- GitHub Discussions / Issues (fallback) -->
+  <a href="https://github.com/wahb-amir" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Profile-Open%20to%20Messages-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+> Tip: if you want a contact form that sends email without showing your email publicly, use a form on your site (e.g. `https://wahb.space/contact`) or services like Formspree / Netlify Forms / Vercel Serverless function.
 
 ---
 
 ⭐ *If you like performance-focused web apps, you’ll like my work.*
+
