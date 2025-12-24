@@ -59,23 +59,25 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <!-- Main dynamic stats (uses github-readme-stats) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=wahb-amir&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="Wahb's GitHub stats" width="48%"/>
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahb-amir&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="48%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=wahb-amir&show_icons=true&theme=radical&hide_border=true"
+    width="48%"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahb-amir&layout=compact&theme=radical&hide_border=true"
+    width="48%"
+    alt="Top languages"
+  />
 </p>
 
 <p align="center">
-  <!-- Streaks (useful but public service reliability varies) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahb-amir&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=wahb-amir&theme=radical&hide_border=true"
+    alt="GitHub streak"
+  />
 </p>
 
-<p align="center">
-  <!-- Quick-stats badges (followers, total stars, repos) via shields (fast & reliable) -->
-  <img src="https://img.shields.io/github/followers/wahb-amir?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/wahb-amir?style=flat&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/github/repos-wahb/wahb-amir?label=repos&style=flat" alt="Repos" />
-</p>
 
 > **Notes about stats**  
 > - `github-readme-stats` images are dynamic and popular — they auto-update. The `count_private=true` parameter will show private contributions only if the service can access them; if you want fully private-safe stats, consider self-hosting the `github-readme-stats` backend.  
