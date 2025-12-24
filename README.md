@@ -98,9 +98,15 @@ You can choose one (or more) of these. Replace the placeholder email with your r
   </a>
 
   <!-- Portfolio contact page -->
-  <a href="https://wahb.space/contact" target="_blank">
-    <img src="https://wahb.space/_next/image?url=%2Flogo.png&w=96&q=75" alt="Contact page" />
-  </a>
+<a href="https://wahb.space/#contact" target="_blank">
+  <img
+    src="https://wahb.space/_next/image?url=%2Flogo.png&w=96&q=75"
+    alt="Contact page"
+    width="32"
+    height="32"
+  />
+</a>
+
 
   <!-- GitHub Discussions / Issues (fallback) -->
   <a href="https://github.com/wahb-amir" target="_blank">
