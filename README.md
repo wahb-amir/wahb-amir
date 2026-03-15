@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00E7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Next.js+%2B+React+Specialist;SSR+%7C+SSG+%7C+Performance+Focused;Building+Fast+Web+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00E7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Next.js+%2B+React+Specialist;SSR+%7C+SSG+%7C+Performance+Focused;🏆+3rd+Place+%E2%80%94+Hack+for+Humanity+2026;Building+Fast+Web+Experiences" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,14 +10,22 @@
 
 ---
 
-### 👨‍💻 About Me  
-- 🔭 Building **high-performance full-stack web apps**  
-- 🌱 Deeply focused on **Next.js (SSR / SSG / App Router)** & animations  
-- ⚡ Obsessed with **performance, UX, and clean architecture**  
-- 💬 Ask me about **React, Next.js, Tailwind, Framer Motion**  
-- 🌐 Portfolio: **https://wahb.space**  
-- 🚀 Live Project: **https://dashboard.wahb.space**  
-- ⚡ Motto: *“Performance and clarity over complexity.”*
+## 🏆 Hackathon
+
+**3rd Place — Hack for Humanity 2026** &nbsp;·&nbsp; [EcoLens](https://eco.wahb.space) &nbsp;·&nbsp; 775 participants
+
+> AI-powered waste classifier with gamified environmental impact tracking — built with Next.js, HuggingFace, MongoDB & Framer Motion.
+
+---
+
+### 👨‍💻 About Me
+- 🔭 Building **high-performance full-stack web apps**
+- 🌱 Deeply focused on **Next.js (SSR / SSG / App Router)** & animations
+- ⚡ Obsessed with **performance, UX, and clean architecture**
+- 💬 Ask me about **React, Next.js, Tailwind, Framer Motion**
+- 🌐 Portfolio: **https://wahb.space**
+- 🚀 Live Project: **https://dashboard.wahb.space**
+- ⚡ Motto: *"Performance and clarity over complexity."*
 
 ---
 
@@ -56,22 +64,17 @@
 </p>
 
 ---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://img.shields.io/github/followers/wahb-amir?style=social" alt="Followers" />
-  <!-- <img src="https://img.shields.io/github/stars/wahb-amir?style=flat&logo=github" alt="Stars" /> -->
   <img src="https://img.shields.io/github/repo-size/wahb-amir/wahb-amir?style=flat" alt="Repo size" />
   <img src="https://img.shields.io/github/issues/wahb-amir/wahb-amir?style=flat" alt="Issues" />
 </p>
 
-
 <p align="center">
-  <!-- Optional: streak (may occasionally be rate-limited) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahb-amir&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
-
-
-
 
 ### 📈 Activity Graph
 <div align="center">
@@ -81,40 +84,33 @@
 ---
 
 ### 🚀 Featured Work
-- **Client & Developer Dashboard** → https://dashboard.wahb.space  
-- **Portfolio** → https://wahb.space  
-- Optimized SSR + SSG apps (95% Lighthouse improvements)  
+- **🏆 EcoLens** *(3rd Place — Hack for Humanity 2026)* → https://eco.wahb.space
+- **Client & Developer Dashboard** → https://dashboard.wahb.space
+- **Portfolio** → https://wahb.space
+- Optimized SSR + SSG apps (95% Lighthouse improvements)
 - Heavy animation without performance loss
 
 ---
 
 ### ✉️ Contact Me
-You can choose one (or more) of these. Replace the placeholder email with your real address if you want direct email links.
 
 <p align="center">
-  <!-- Email (replace `contact@yourdomain.com` with your real email) -->
-  <a href="mailto:contact@wahbamir2010@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact@wahbamir2010@gmail.com-0078D4?style=for-the-badge&logo=gmail" alt="Email" />
-     </a>
+  <a href="mailto:wahbamir2010@gmail.com">
+    <img src="https://img.shields.io/badge/Email-wahbamir2010@gmail.com-0078D4?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 
-  <!-- Portfolio contact page -->
-<a href="https://wahb.space/#contact" target="_blank">
-  <img
-    src="https://wahb.space/_next/image?url=%2Flogo.png&w=96&q=75"
-    alt="Contact page"
-    width="32"
-    height="32"
-  />
-</a>
+  <a href="https://wahb.space/#contact" target="_blank">
+    <img
+      src="https://wahb.space/_next/image?url=%2Flogo.png&w=96&q=75"
+      alt="Contact page"
+      width="32"
+      height="32"
+    />
+  </a>
 
-
-  <!-- GitHub Discussions / Issues (fallback) -->
   <a href="https://github.com/wahb-amir" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Profile-Open%20to%20Messages-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
-
-
-⭐ *If you like performance-focused web apps, you’ll like my work.*
-
+⭐ *If you like performance-focused web apps, you'll like my work.*
