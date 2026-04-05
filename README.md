@@ -25,7 +25,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Self-taught full-stack developer — coding seriously for **~1 year**, shipping production-grade apps
-- 🧠 Building **[EconoQuest](https://devpost.com/wahbamir2010)** — distributed microservices econ sim with Supabase pgvector RAG, WebSocket streaming, and Groq Llama 3.3 70B
+- 🧠 Building **[EconoQuest](https://devpost.com/software/econoquest-y205ab)** — distributed microservices econ sim with Supabase pgvector RAG, WebSocket streaming, and Groq Llama 3.3 70B
 - ⚡ Obsessed with **performance, clean architecture, and shipping real things**
 - 🐧 Manage my own **Linux VPS** — full infra ownership from code to deployment
 - 🌐 Portfolio: **[wahb.space](https://wahb.space)**
@@ -74,7 +74,7 @@
 ### 🎯 [EconoQuest — Economics Simulation Game](https://devpost.com/wahbamir2010) &nbsp;·&nbsp; *Hackonomics 2026*
 > Multi-player economics simulation with AI-powered decision feedback. Distributed microservices architecture with load-balanced HuggingFace Spaces, Supabase pgvector RAG, real-time WebSocket streaming, and SHA256-keyed LRU caching. 37-test suite. Hall of Fame leaderboard.  
 > **Stack:** Next.js · Fastify · Supabase · pgvector · Groq (Llama 3.3 70B) · WebSocket · Python  
-> [Devpost](https://devpost.com/wahbamir2010)
+> [Live](https://econoquest.wahb.space) · [Frontend-code](https://github.com/wahb-amir/EconoQuest) [Backend-code](https://github.com/wahb-amir/EconoQuestbackend)
 
 ---
 
