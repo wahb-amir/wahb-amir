@@ -18,7 +18,7 @@
 | Place | Event | Project | Participants | Stack |
 |-------|-------|---------|-------------|-------|
 | 🥉 3rd | Hack for Humanity 2026 | [EcoLens](https://devpost.com/software/eco-lens-0golu8) — AI waste classifier | 775 (int'l, solo) | Next.js · HuggingFace · MongoDB |
-| TBD | Hackonomics 2026 | [EconoQuest](https://devpost.com/software/econoquest-y205ab) — economics simulation game | Solo build | Next.js · Fastify · Supabase · Groq |
+| 🏆 Technical Award 🛠️ | Hackonomics 2026 | [EconoQuest](https://devpost.com/software/econoquest-y205ab) — economics simulation game | Solo build | Next.js · Fastify · Supabase · Groq |
 
 ---
 
