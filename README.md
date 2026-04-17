@@ -71,7 +71,7 @@
 
 ---
 
-### 🎯 [EconoQuest — Economics Simulation Game](https://devpost.com/wahbamir2010) &nbsp;·&nbsp; *Hackonomics 2026*
+### 🛠️  [EconoQuest — Economics Simulation Game](https://devpost.com/wahbamir2010) &nbsp;·&nbsp; *Hackonomics 2026*
 > Multi-player economics simulation with AI-powered decision feedback. Distributed microservices architecture with load-balanced HuggingFace Spaces, Supabase pgvector RAG, real-time WebSocket streaming, and SHA256-keyed LRU caching. 37-test suite. Hall of Fame leaderboard.  
 > **Stack:** Next.js · Fastify · Supabase · pgvector · Groq (Llama 3.3 70B) · WebSocket · Python  
 > [Live](https://econoquest.wahb.space) · [Frontend-code](https://github.com/wahb-amir/EconoQuest) [Backend-code](https://github.com/wahb-amir/EconoQuestbackend)
