@@ -6,9 +6,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wahb-amir&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Age-16-00E7FF?style=flat" />
-  <img src="https://img.shields.io/badge/Experience-Self--taught-00E7FF?style=flat" />
-  <img src="https://img.shields.io/badge/Based+in-Pakistan-00E7FF?style=flat" />
+  <img src="https://img.shields.io/badge/Age-16-0e75b6?style=flat" />
+  <img src="https://img.shields.io/badge/Experience-Self--taught-0e75b6?style=flat" />
+  <img src="https://img.shields.io/badge/Based+in-Pakistan-0e75b6?style=flat" />
 </p>
 
 ---
