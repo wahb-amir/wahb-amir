@@ -11,9 +11,7 @@
 
   <img src="https://img.shields.io/badge/Experience-Self--taught-0e75b6?style=flat" alt="Experience" />
 
-  <a href="https://rankistan.dev">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fwahb-amir&style=flat" alt="Rankistan rank badge" />
-  </a>
+  <img src="https://img.shields.io/badge/Based+in-Pakistan-0e75b6?style=flat" />
 </p>
 
 ---
