@@ -16,7 +16,7 @@
 
 ---
 
-## 🏆 Hackathons
+## 🏆 Hackathons 
 
 | Place | Event | Project | Participants | Stack |
 |-------|-------|---------|-------------|-------|
