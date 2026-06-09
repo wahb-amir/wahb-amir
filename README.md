@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Full-Stack+%26+AI+Developer;Next.js+%7C+TypeScript+%7C+Supabase+%7C+Python;SSR+%7C+SSG+%7C+Performance+Focused;%F0%9F%8F%86+3rd+%E2%80%94+Hack+for+Humanity+2026+(775+participants);Building+Fast%2C+Production-Ready+Web+Apps" alt="Typing SVG" />
   </a>
-</p>
+</p> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wahb-amir&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
@@ -102,7 +102,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahb-amir&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
+<p align="center" >
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wahb-amir&bg_color=000000&color=8b949e&line=00e7ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution graph" />
 </p>
 
