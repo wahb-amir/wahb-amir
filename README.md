@@ -67,32 +67,32 @@
 
 ## 🚀 Featured Projects
 
-### 🏆 [EcoLens — AI Waste Classifier](https://eco.wahb.buttnetworks.com) &nbsp;·&nbsp; *3rd Place, Hack for Humanity 2026 (775 participants)*
+### 🏆 [EcoLens — AI Waste Classifier](https://eco.buttnetworks.com) &nbsp;·&nbsp; *3rd Place, Hack for Humanity 2026 (775 participants)*
 > Point your camera at any waste item → AI classification → CO₂/water/energy impact → gamified global leaderboard.  
 > Full ML pipeline: Next.js serverless → HuggingFace proxy → label normalisation → MongoDB. OTP + JWT auth with token rotation. Built solo in one month, zero paid API budget.  
 > **Stack:** Next.js · TypeScript · HuggingFace · MongoDB · Framer Motion · JWT · Tailwind  
-> [Live](https://eco.wahb.buttnetworks.com) · [Code](https://github.com/wahb-amir/ecolens)
+> [Live](https://eco.buttnetworks.com) · [Code](https://github.com/wahb-amir/ecolens)
 
 ---
 
 ### 🛠️  [EconoQuest — Economics Simulation Game](https://devpost.com/wahbamir2010) &nbsp;·&nbsp; *Hackonomics 2026*
 > Multi-player economics simulation with AI-powered decision feedback. Distributed microservices architecture with load-balanced HuggingFace Spaces, Supabase pgvector RAG, real-time WebSocket streaming, and SHA256-keyed LRU caching. 37-test suite. Hall of Fame leaderboard.  
 > **Stack:** Next.js · Fastify · Supabase · pgvector · Groq (Llama 3.3 70B) · WebSocket · Python  
-> [Live](https://econoquest.wahb.buttnetworks.com) · [Frontend-code](https://github.com/wahb-amir/EconoQuest) [Backend-code](https://github.com/wahb-amir/EconoQuestbackend)
+> [Live](https://econoquest.buttnetworks.com) · [Frontend-code](https://github.com/wahb-amir/EconoQuest) [Backend-code](https://github.com/wahb-amir/EconoQuestbackend)
 
 ---
 
 ### 🛠 [Client & Developer Collaboration Platform](https://dashboard.wahb.buttnetworks.com)
 > Replaces email/spreadsheet chaos with GitHub-synced progress, role-based access, real-time messaging, and automated notifications.  
 > **Stack:** Next.js · Node.js · MongoDB · GitHub Webhooks · Tailwind  
-> [Live](https://dashboard.wahb.buttnetworks.com) · [Code](https://github.com/wahb-amir/dashboard)
+> [Live](https://dashboard.buttnetworks.com) · [Code](https://github.com/wahb-amir/dashboard)
 
 ---
 
 ### 🛒 [Modern Online Store — BoltForm](https://boltform.wahb.buttnetworks.com)
 > Performant e-commerce MVP — Stripe checkout, mobile-first UX, admin dashboard.  
 > **Stack:** Next.js · Stripe · MongoDB · Tailwind  
-> [Live](https://boltform.wahb.buttnetworks.com) · [Code](https://github.com/wahb-amir/Boltform)
+> [Live](https://boltform.buttnetworks.com) · [Code](https://github.com/wahb-amir/Boltform)
 
 ---
 
