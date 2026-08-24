@@ -103,7 +103,7 @@
 </p>
 
 <p align="center" >
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=wahb-amir&bg_color=000000&color=8b949e&line=00e7ff&point=ffffff&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=wahb-amir&bg_color=000000&color=8b949e&line=00e7ff&point=ffffff&area=true&hide_border=true)" width="100%" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wahb-amir&bg_color=000000&color=8b949e&line=00e7ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution graph" />
 </p>
 
 ---
